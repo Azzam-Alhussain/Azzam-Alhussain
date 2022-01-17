@@ -2,10 +2,10 @@
 
 ## I'm a Ph.D. Student, Engineer, and a Researcher !!
 
-### - 🔭 I’m currently working on Hardware acceleration for optimized Deep Nueral Network  
-### - 👯 I’m looking to collaborate with other content creators
-### - 🥅 2022 Goals: Become an expert in FPGA, DNN, Research techniques, and Publish two papers
-### - ⚡ Interest: Hardware design and software coding (HW/SW Co-design) 
+- 🔭 I’m currently working on Hardware acceleration for optimized Deep Nueral Network  
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Become an expert in FPGA, DNN, Research techniques, and Publish two papers
+- ⚡ Interest: Hardware design and software coding (HW/SW Co-design) 
 
 
 ### Connect with me:
