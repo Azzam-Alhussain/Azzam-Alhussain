@@ -1,11 +1,11 @@
 ## Hi All, I'm Azzam 👋
 
-## I'm a Ph.D. Student, Engineer, and a Researcher !!
+## I'm a Ph.D. Candidate, Engineer, and a Researcher !!
 
 - 🔭 I’m currently working on Hardware acceleration for optimized Deep Nueral Network  
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Become an expert in FPGA, DNN, Research techniques, and Publish two papers
-- ⚡ Interest: Hardware design and software coding (HW/SW Co-design) 
+- 👯 I’m looking to collaborate with other students and researchers from around the world
+- 🥅 2023 Goals: Become an expert in SoC-FPGA, DNN with Computer Vision and NLP, HLS & RTL coding, Research techniques, and hopefully I'll publish two        more papers this year
+- ⚡ Interest: (HW/SW Co-design) 
 
 
 ### Connect with me:
