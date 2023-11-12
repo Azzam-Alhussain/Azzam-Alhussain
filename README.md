@@ -47,9 +47,10 @@
 ### 📕 FPGA, DNN, and Research articles and posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A State-of-the-Art Survey on Deep Learning Theory and Architectures](https://www.mdpi.com/2079-9292/8/3/292?ref=https://githubhelp.com)
+- [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html?source=post_page---------------------------)
 - [FPGA-based Deep Learning Inference Accelerators: Where Are We Standing?](https://dl.acm.org/doi/10.1145/3613963)
 - [Suitability of recent hardware accelerators (DSPs, FPGAs, and GPUs) for computer vision and image processing algorithms](https://www.sciencedirect.com/science/article/pii/S0923596518303606)
-- [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html?source=post_page---------------------------)
 - [How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)
 - [How to develop a quality research article](https://reader.elsevier.com/reader/sd/pii/S0268401221001195?token=8422AA019005983F04BC92B9D67AD7EBC05A95F2C78F367A9F1FC429B7EF03681FBA16596AECA0D1B3089EA741A946AA&originRegion=us-east-1&originCreation=20220112082659)
 - [How to get your research published…](https://www.elsevier.com/?a=91173)
