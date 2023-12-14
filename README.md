@@ -2,10 +2,10 @@
 
 ## I'm a Ph.D. Candidate, Engineer, and a Researcher !!
 
-- 🔭 I’m currently working on Hardware acceleration for optimized Computer Vision algorithms 
+- 🔭 I’m currently working on Hardware acceleration for Computer Vision algorithms 
 - 👯 I’m looking to collaborate with other students and researchers from around the world
-- 🥅 2023 Goals: Become a consultant in SoC-FPGA for DNN with Computer Vision
-- ⚡ Interest: Edge AI with HW/SW Co-design
+- 🥅 2024 Goals: Work on efficient Medical Imaging and ADAS applications on the edge
+- ⚡ Interest: Edge AI with HW/SW Co-design for efficient DNNs
 
 
 ### Connect with me:
