@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/azzamabdulrahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azzamabdulrahman/" height="20" width="28" /></a>
 </p>
 
-### 📊 Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="28" /> </a> 
