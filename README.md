@@ -2,9 +2,9 @@
 
 ## I'm a Ph.D. Candidate, Engineer, and a Researcher !!
 
-- 🔭 I’m currently working on Hardware acceleration for Computer Vision algorithms 
-- 👯 I’m looking to collaborate with other students and researchers from around the world
-- 🥅 2024 Goals: Work on efficient Medical Imaging and ADAS applications on the edge
+- 🔭 I’m currently working on AI Hardware acceleration for Computer Vision algorithms 
+- 👨‍💻 I’m looking to collaborate with other students and researchers from around the world
+- 🥅 2024 Goals: Graduate & work on efficient Medical Imaging and ADAS applications on the edge
 - ⚡ Interest: Edge AI with HW/SW Co-design for efficient DNNs
 
 
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/azzamabdulrahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azzamabdulrahman/" height="20" width="28" /></a>
 </p>
 
-### Languages and Tools:
+### 📊 Languages and Tools:
 
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="28" /> </a> 
