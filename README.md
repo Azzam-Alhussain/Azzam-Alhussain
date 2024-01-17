@@ -44,7 +44,7 @@
 
 ---
 
-### 📕 FPGA, DNN, and Research articles and posts
+### 📕 FPGA, DNN, Research articles and posts
 
 <!-- BLOG-POST-LIST:START -->
 - [A State-of-the-Art Survey on Deep Learning Theory and Architectures](https://www.mdpi.com/2079-9292/8/3/292?ref=https://githubhelp.com)
