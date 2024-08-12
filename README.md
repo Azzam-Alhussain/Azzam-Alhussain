@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on AI Hardware acceleration for Computer Vision algorithms 
 - 👨‍💻 I’m looking to collaborate with other students and researchers from around the world
-- 🥅 2024 Goals: Graduate & work on efficient Medical Imaging and ADAS applications on the edge
+- 🥅 2024 Goals: Work on efficient Medical Imaging and ADAS applications on the edge
 - ⚡ Interest: Edge AI with HW/SW Co-design for efficient DNNs
 
 
