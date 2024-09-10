@@ -1,6 +1,6 @@
 ## Hi All, I'm Azzam 👋
 
-## I'm a Ph.D. Candidate, Engineer, and a Researcher !!
+## I'm a Ph.D. Alumni, Engineer, and a Researcher !!
 
 - 🔭 I’m currently working on AI Hardware acceleration for Computer Vision algorithms 
 - 👨‍💻 I’m looking to collaborate with other students and researchers from around the world
